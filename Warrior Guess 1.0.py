@@ -1,5 +1,6 @@
 import sys
 import time
+
 thu = """It's Thunderclan!
     s+`                   `+s  
     mMmo.               -sNMh  
